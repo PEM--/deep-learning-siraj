@@ -11,7 +11,7 @@ source env/bin/activate.fish
 # For bash
 source env/bin/activate
 # Install dependencies
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Update dependencies
